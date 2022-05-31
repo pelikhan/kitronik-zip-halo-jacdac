@@ -6,8 +6,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "jacdac": "github:microsoft/pxt-jacdac#v0.10.29",
-        "jacdac-led-server": "github:microsoft/pxt-jacdac/led-server#v0.10.29"
+        "jacdac": "github:microsoft/pxt-jacdac#v0.10.40",
+        "jacdac-led-server": "github:microsoft/pxt-jacdac/led-server#v0.10.40"
     },
     "files": [
         "main.ts",
@@ -17,7 +17,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "4.1.32",
+        "target": "4.1.45",
         "targetId": "microbit"
     },
     "supportedTargets": [
